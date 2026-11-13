@@ -11,3 +11,5 @@ If you're using version control, you will want to check in this directory.
 
 ## Using
 
+See `example.qmd`.
+
