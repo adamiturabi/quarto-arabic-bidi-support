@@ -4,8 +4,13 @@ author: "[#fulAn ibn #fulAn]{.trn2} [فلان بن فلان]{.ar}"
 filters:
   - arabic-support
 format:
-  html: {}
-  pdf: {}
+  html:
+    mainfont: "CharisW"
+    css: srchtml/styles.css
+  pdf:
+    mainfont: "Charis"
+    template-partials:
+      - srctex/before-title.tex
 ---
 
 This is some Arabic inline text with punctuation:
