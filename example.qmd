@@ -1,0 +1,29 @@
+---
+title: "Arabic bidirectional text [النص العربي في نص إنكليزي]{.ar}"
+author: "[#fulAn ibn #fulAn]{.trn2} [فلان بن فلان]{.ar}"
+filters:
+  - arabic-support
+format:
+  html: {}
+  pdf: {}
+---
+
+This is some Arabic inline text with punctuation:
+[السلام عليكم!]{.ar}.
+And this is English text resuming.
+
+This is the Arabic alphabet:
+
+[أبجد هوز حطي كلمن سعفص قرشت ثخذ ضظغ]{.ar}
+
+This is its transliteration:
+
+[Abjd hwz HTy klmn sefS qrct vxp DPg]{.trn}
+
+This is an Arabic div:
+
+::: {.ar}
+عَلى قَدرِ أَهلِ العَزمِ تَأتي العَزائِمُ * وَتَأتي عَلى قَدرِ الكِرامِ المَكارِمُ  
+وَتَعظُمُ في عَينِ الصَغيرِ صِغارُها * وَتَصغُرُ في عَينِ العَظيمِ العَظائِمُ  
+:::
+
