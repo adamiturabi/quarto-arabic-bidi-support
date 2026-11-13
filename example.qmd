@@ -13,6 +13,8 @@ format:
       - srctex/before-title.tex
 ---
 
+# Vazirmatn Arabic font
+
 This is some Arabic inline text with punctuation:
 [السلام عليكم!]{.ar}.
 And this is English text resuming.
@@ -28,6 +30,48 @@ This is its transliteration:
 This is an Arabic div:
 
 ::: {.ar}
+عَلى قَدرِ أَهلِ العَزمِ تَأتي العَزائِمُ * وَتَأتي عَلى قَدرِ الكِرامِ المَكارِمُ  
+وَتَعظُمُ في عَينِ الصَغيرِ صِغارُها * وَتَصغُرُ في عَينِ العَظيمِ العَظائِمُ  
+:::
+
+# Amiri Arabic font
+
+This is some Arabic inline text with punctuation:
+[السلام عليكم!]{.aralt}.
+And this is English text resuming.
+
+This is the Arabic alphabet:
+
+[أبجد هوز حطي كلمن سعفص قرشت ثخذ ضظغ]{.aralt}
+
+This is its transliteration:
+
+[Abjd hwz HTy klmn sefS qrct vxp DPg]{.trn}
+
+This is an Arabic div:
+
+::: {.aralt}
+عَلى قَدرِ أَهلِ العَزمِ تَأتي العَزائِمُ * وَتَأتي عَلى قَدرِ الكِرامِ المَكارِمُ  
+وَتَعظُمُ في عَينِ الصَغيرِ صِغارُها * وَتَصغُرُ في عَينِ العَظيمِ العَظائِمُ  
+:::
+
+# Kitab Arabic font
+
+This is some Arabic inline text with punctuation:
+[السلام عليكم!]{.quran}.
+And this is English text resuming.
+
+This is the Arabic alphabet:
+
+[أبجد هوز حطي كلمن سعفص قرشت ثخذ ضظغ]{.quran}
+
+This is its transliteration:
+
+[Abjd hwz HTy klmn sefS qrct vxp DPg]{.trn}
+
+This is an Arabic div:
+
+::: {.quran}
 عَلى قَدرِ أَهلِ العَزمِ تَأتي العَزائِمُ * وَتَأتي عَلى قَدرِ الكِرامِ المَكارِمُ  
 وَتَعظُمُ في عَينِ الصَغيرِ صِغارُها * وَتَصغُرُ في عَينِ العَظيمِ العَظائِمُ  
 :::
